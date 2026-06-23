@@ -1,0 +1,31 @@
+# Data
+data/
+*.jpg
+*.png
+*.jpeg
+
+# Checkpoints
+checkpoints/*.pth
+checkpoints/*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+
+# Submissions
+submissions/
+
+# Venvs
+venv
+.venv
+.Venv
+.env
+deepVenv
+
+#Wandb
+wandb/

@@ -1,0 +1,109 @@
+Training started: 2026-02-24 02:16:26
+============================================================
+Device: mps
+Trainable params: 14,450,689
+============================================================
+
+Epoch 1/10
+------------------------------------------------------------
+Epoch 1/6 Results:                                                                                                                                                                                                                 
+  Train Loss: 0.4379
+  Val AUC:    0.9213
+  Epoch time: 729.2 minutes
+  Remaining:  ~60.8 hours
+  🏆 New best AUC!
+  ✓ Checkpoint saved: checkpoints/transfusion_epoch1.pth
+
+Epoch 2/10
+------------------------------------------------------------
+Epoch 2/6 Results:                                                                                                                                                                                                                 
+  Train Loss: 0.3873
+  Val AUC:    0.9433
+  Epoch time: 745.4 minutes
+  Remaining:  ~49.7 hours
+  🏆 New best AUC!
+  ✓ Checkpoint saved: checkpoints/transfusion_epoch2.pth
+
+Epoch 3/10
+------------------------------------------------------------
+Epoch 3/10 Results:                                                                                                                                                                                                                 
+  Train Loss: 0.3612
+  Val AUC:    0.9487
+  Epoch time: 734.9 minutes
+  Remaining:  ~36.7 hours
+  🏆 New best AUC!
+  ✓ Checkpoint saved: checkpoints/transfusion_epoch3.pth
+
+Epoch 4/10
+------------------------------------------------------------
+Epoch 4/10 Results:                                                                                                                                                                                                                 
+  Train Loss: 0.3383
+  Val AUC:    0.9562
+  Epoch time: 736.0 minutes
+  Remaining:  ~24.5 hours
+  🏆 New best AUC!
+  ✓ Checkpoint saved: checkpoints/transfusion_epoch4.pth
+
+Epoch 5/10
+------------------------------------------------------------
+Epoch 5/10 Results:                                                                                                                                                                                                                 
+  Train Loss: 0.3200
+  Val AUC:    0.9671
+  Epoch time: 735.1 minutes
+  Remaining:  ~12.3 hours
+  🏆 New best AUC!
+  ✓ Checkpoint saved: checkpoints/transfusion_epoch5.pth
+
+Epoch 6/10
+------------------------------------------------------------
+Epoch 6/10 Results:                                                                                                                                                                                                                 
+  Train Loss: 0.3071
+  Val AUC:    0.9692
+  Epoch time: 735.7 minutes
+  Remaining:  ~0.0 hours
+  🏆 New best AUC!
+  ✓ Checkpoint saved: checkpoints/transfusion_epoch6.pth
+
+Epoch 7/10
+------------------------------------------------------------
+Epoch 7/10 Results:
+  Train Loss: 0.3034
+  Val AUC:    0.9684
+  Epoch time: 734.8 minutes
+  Remaining:  ~36.7 hours
+  ✓ Checkpoint saved: checkpoints/transfusion_epoch7.pth
+
+Epoch 8/10
+------------------------------------------------------------
+Epoch 8/10 Results:
+  Train Loss: 0.3013
+  Val AUC:    0.9701
+  Epoch time: 735.6 minutes
+  Remaining:  ~24.5 hours
+  🏆 New best AUC!
+  ✓ Checkpoint saved: checkpoints/transfusion_epoch8.pth
+
+Epoch 9/10
+------------------------------------------------------------
+Epoch 9/10 Results:
+  Train Loss: 0.2980
+  Val AUC:    0.9701
+  Epoch time: 736.5 minutes
+  Remaining:  ~12.3 hours
+  🏆 New best AUC!
+  ✓ Checkpoint saved: checkpoints/transfusion_epoch9.pth
+
+Epoch 10/10
+------------------------------------------------------------
+Epoch 10/10 Results:
+  Train Loss: 0.2969
+  Val AUC:    0.9703
+  Epoch time: 736.6 minutes
+  Remaining:  ~0.0 hours
+  🏆 New best AUC!
+  ✓ Checkpoint saved: checkpoints/transfusion_epoch10.pth
+
+============================================================
+Training completed: 2026-02-27 14:18:19
+Best AUC: 0.9703
+============================================================

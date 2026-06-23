@@ -1,0 +1,67 @@
+Training started: 2026-02-14 18:57:21
+============================================================
+
+Epoch 1/6
+------------------------------------------------------------
+Epoch 1/6 Results:
+  Train Loss: 0.3242
+  Val AUC:    0.9740
+  Epoch time: 212.6 minutes
+  Remaining:  ~17.7 hours
+  ✓ Checkpoint saved: ../checkpoints/clip_full_epoch1.pth
+  🏆 New best AUC!
+
+Epoch 2/6
+------------------------------------------------------------
+Epoch 2/6 Results:
+  Train Loss: 0.2719
+  Val AUC:    0.9815
+  Epoch time: 212.4 minutes
+  Remaining:  ~14.2 hours
+  ✓ Checkpoint saved: ../checkpoints/clip_full_epoch2.pth
+  🏆 New best AUC!
+
+Epoch 3/6
+------------------------------------------------------------
+Epoch 3/6 Results:
+  Train Loss: 0.2500
+  Val AUC:    0.9849
+  Epoch time: 211.8 minutes
+  Remaining:  ~10.6 hours
+  ✓ Checkpoint saved: ../checkpoints/clip_full_epoch3.pth
+  🏆 New best AUC!
+
+Epoch 4/6
+------------------------------------------------------------
+Epoch 4/6 Results:
+  Train Loss: 0.2358
+  Val AUC:    0.9865
+  Epoch time: 211.7 minutes
+  Remaining:  ~7.1 hours
+  ✓ Checkpoint saved: ../checkpoints/clip_full_epoch4.pth
+  🏆 New best AUC!
+
+Epoch 5/6
+------------------------------------------------------------
+Epoch 5/6 Results:
+  Train Loss: 0.2280
+  Val AUC:    0.9874
+  Epoch time: 212.0 minutes
+  Remaining:  ~3.5 hours
+  ✓ Checkpoint saved: ../checkpoints/clip_full_epoch5.pth
+  🏆 New best AUC!
+
+Epoch 6/6
+------------------------------------------------------------
+Epoch 6/6 Results:
+  Train Loss: 0.2244
+  Val AUC:    0.9877
+  Epoch time: 211.8 minutes
+  Remaining:  ~0.0 hours
+  ✓ Checkpoint saved: ../checkpoints/clip_full_epoch6.pth
+  🏆 New best AUC!
+
+============================================================
+Training completed: 2026-02-15 16:09:41
+Best AUC: 0.9877
+============================================================
